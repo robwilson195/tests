@@ -1,8 +1,14 @@
 PODS:
   - JTAppleCalendar (7.1.7)
+  - TinyConstraints (4.0.1)
 
 DEPENDENCIES:
   - JTAppleCalendar (from `https://github.com/patchthecode/JTAppleCalendar.git`, commit `1d9e3d0b4d8fbd0649da8cb6c9f1de2374c51cde`)
+  - TinyConstraints
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - TinyConstraints
 
 EXTERNAL SOURCES:
   JTAppleCalendar:
@@ -16,7 +22,8 @@ CHECKOUT OPTIONS:
 
 SPEC CHECKSUMS:
   JTAppleCalendar: 46d7ee877201b9749597ef7a46e9b01d71af0c14
+  TinyConstraints: 8dd91295e56797648c7bc335dd20e1d91ec4c192
 
-PODFILE CHECKSUM: 2a8580cc22a36efc09ad18e7b5916dd2cc1ea5be
+PODFILE CHECKSUM: d58c43b121bea1a70cdc8183e0ce75a7d3ade209
 
 COCOAPODS: 1.7.5
